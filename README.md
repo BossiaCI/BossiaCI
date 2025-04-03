@@ -2,7 +2,7 @@
 
 <br clear="both">
 
-<h2 align="left">Hi 👋! My name is Bossia and I'm a FullStack <br>developer, from France</h2>
+<h2 align="left">Hi 👋! My name is Bossia and I'm a FullStack <br>developer, currently living in France</h2>
 
 ###
 
